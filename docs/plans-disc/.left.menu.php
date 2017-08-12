@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"1комнатные", 
+		"/docs/plans-disc/1komnatnye/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"2комнатные", 
+		"/docs/plans-disc/2komnatnye/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"3комнатные", 
+		"/docs/plans-disc/3komnatnye/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"4комнатные", 
+		"/docs/plans-disc/4komnatnye/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
